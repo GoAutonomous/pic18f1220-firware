@@ -1,0 +1,8 @@
+/nbproject/private/
+build/
+debug/
+dist/
+*gen*/
+nbproject/*
+!nbproject/configurations.xml
+!nbproject/project.xml
